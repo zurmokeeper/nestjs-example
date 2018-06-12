@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # first-nestjs-app
 
 ## Description
@@ -36,3 +37,7 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+=======
+# nestjs-example
+Nest.js framework example
+>>>>>>> 729123018e9eefd0a838212912a9d8920552b9c9
